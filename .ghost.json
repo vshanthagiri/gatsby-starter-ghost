@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
+    "apiUrl": "https://vinayshanthagiri.ghost.io",
     "contentApiKey": "8b8cd54c9859a2f2af3ac13543"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
+    "apiUrl": "https://vinayshanthagiri.ghost.io",
     "contentApiKey": "8b8cd54c9859a2f2af3ac13543"
   }
 }
